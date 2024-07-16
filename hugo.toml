@@ -1,0 +1,60 @@
+baseURL = 'https://SRPhotography.org/'
+languageCode = 'en-us'
+title = 'Sophia Roessler Photography'
+theme = 'ananke'
+
+
+[params]
+background_color_class = "bg-dark-blue"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 3
+background_color_class = "bg-dark-blue"
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 4
+
+[[menu.projects]]
+name = "Night of the Arts Posters"
+url = "nota"
+weight = 5
+
+[[menu.projects]]
+name = "2024 AP Art Portfolio"
+url = "ap-portfolio"
+weight = 6
+
+[[menu.projects]]
+name = "Toronto 2023"
+url = "toronto-2023"
+weight = 7
+
+[[menu.projects]]
+name = "Macro Photography"
+url = "macro"
+weight = 8
+
+[[menu.projects]]
+name = "Seattle Aquarium 2023"
+url = "aquarium-2023"
+weight = 9
+
+[[menu.projects]]
+name = "Portraits"
+url = "portraits"
+weight = 10
