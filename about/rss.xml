@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/about/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/about/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-06-27 12:10:01 -0700 PDT</lastBuildDate>
+        
+
+        <link>http://localhost:1313/about/</link>
+
+        
+
+        <title>Abouts · Sophia Roessler Photography</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p><strong>Sophia Roessler is a 17 year old photographer who attends Woodinville High School as a Senior. She shoots a diverse range of subjects and styles, all to better suit the subject.</strong></p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-06-27:/about/about/</guid>
+
+                
+                    <link>http://localhost:1313/about/about/</link>
+                
+
+                
+                    <pubDate>Thu, 27 Jun 2024 12:10:01 PDT</pubDate>
+                
+
+                
+                    <title>About</title>
+                
+            </item>
+        
+    </channel>
+</rss>

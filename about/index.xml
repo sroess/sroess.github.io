@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Sophia Roessler Photography</title>
+    <link>http://localhost:60810/about/</link>
+    <description>Recent content in Abouts on Sophia Roessler Photography</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2024 12:10:01 -0700</lastBuildDate>
+    <atom:link href="http://localhost:60810/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:60810/about/about/</link>
+      <pubDate>Thu, 27 Jun 2024 12:10:01 -0700</pubDate>
+      <guid>http://localhost:60810/about/about/</guid>
+      <description>Sophia Roessler is a 17 year old photographer who attends Woodinville High School as a Senior. She shoots a diverse range of subjects and styles, all to better suit the subject. Are you looking for a professional headshot for a LinkedIn profile? Are you a graduating senior who needs a portrait? Or perhaps you are an artist/musician/athlete who needs their talents showcased in a photo portfolio? Sophia Roessler is a skilled 17 year old photographer</description>
+    </item>
+  </channel>
+</rss>
