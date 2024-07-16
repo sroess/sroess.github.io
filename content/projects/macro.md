@@ -11,7 +11,7 @@ Macro Photography allows for a new glimpse at the world and uncovers the details
 ![Blackberry Flower](/images/SophiaRoessler.Macro-9.jpg)
 ![Small Flowers](/images/SophiaRoessler.Macro-10.jpg)
 ![Cactus](/images/SophiaRoessler.Macro-12.jpg)
-![Bee Rightside Up](/images/SophiaRoessler.Macro-3.jpg)
+https://github.com/user-attachments/assets/9693f8d1-4df5-4641-90b3-06c32f62b14e
 ![Bee Upsidedown](/images/SophiaRoessler.Macro-4.jpg)
 ![Elisia Vertical Eye](/images/SophiaRoessler_Eyes-13.jpg)
 ![Kat Eye](/images/SophiaRoes_Eyes-1.jpg)
