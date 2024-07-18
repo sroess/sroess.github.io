@@ -14,4 +14,6 @@ Portraits are one of the fundamentals of photography. Everyone needs a good port
 ![LinkedIn Self Portrait](/images/DONEDONE.jpg)
 ![Self Side Profile](/images/SRoessler_Face-1.jpg)
 ![Self Side Profile w/ Glasses](/images/SRoessler_Face-18.jpg)
+![Kat Full](/images/SophiaRoessler_Portraits-11.jpg)
+![Kat Arms](/images/SophiaRoessler_Portraits-10.jpg)
 ![Hassan w/Art](/images/HassanDonecopy.jpg)
