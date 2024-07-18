@@ -8,11 +8,11 @@ The Night of the Arts is an impressive annual art show organized by a handful of
 
 ---
 
-![Evan Aloe's Poster](/images/evanaloe-final-poster.jpg)
-![Branson's poster](/images/branson.PNG)
-![Dance Team's Poster](/images/danceTeamNOTA2024.jpg)
-![Jelina's Poster](/images/jelina.PNG)
-![Simone's Poster](/images/simoneLarge.jpeg)
+![Evan Aloe's Poster](static/images/evanaloe-final-poster.jpg)
+![Branson's poster](static/images/branson.PNG)
+![Dance Team's Poster](static/images/danceTeamNOTA2024.jpg)
+![Jelina's Poster](static/images/jelina.PNG)
+![Simone's Poster](static/images/simoneLarge.jpeg)
 ![Manish Vanish's Poster](/images/Vanish-Noor.png)
 ![Warp's Poster](/images/warpLarge.jpeg)
 
