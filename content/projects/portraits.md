@@ -17,3 +17,7 @@ Portraits are one of the fundamentals of photography. Everyone needs a good port
 ![Kat Full](/images/SophiaRoessler_Portraits-11.jpg)
 ![Kat Arms](/images/SophiaRoessler_Portraits-10.jpg)
 ![Hassan w/Art](/images/HassanDonecopy.jpg)
+![SR Senior Portrait 1](/images/SR_seniorPhotos-5.png)
+![SR Senior Portrait 1](/images/SR_seniorPhotos-6.png)
+![SR Senior Portrait 1](/images/SR_seniorPhotos-7.png)
+![SR Senior Portrait 1](/images/SR_seniorPhotos-8.png)
