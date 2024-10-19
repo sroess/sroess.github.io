@@ -14,4 +14,4 @@ In today's digital age, photos are everywhere, but it's not easy to find that st
 
 
 ---
-I built this website myself using the static website builder Hugo. If there are any elements of this website that are unintuitive or clunky, please don't hesitate to reach out and let me know so I can improve! 
+I built this website myself, so if there are any elements that are unintuitive or clunky, please don't hesitate to reach out and let me know so I can improve! 
