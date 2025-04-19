@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/projects/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/projects/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-06-27 11:57:01 -0700 PDT</lastBuildDate>
+        
+
+        <link>http://localhost:1313/projects/</link>
+
+        
+
+        <title>Projects · Sophia Roessler Photography</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p><img src="/images/Face_DONE.jpg" alt="Fractured Self Portrait"></p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-06-27:/projects/ap-portfolio/</guid>
+
+                
+                    <link>http://localhost:1313/projects/ap-portfolio/</link>
+                
+
+                
+                    <pubDate>Thu, 27 Jun 2024 11:57:01 PDT</pubDate>
+                
+
+                
+                    <title>2024 AP Art Portfolio</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p><img src="/images/branson.PNG" alt="Branson&rsquo;s poster"></p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-06-22:/projects/nota/</guid>
+
+                
+                    <link>http://localhost:1313/projects/nota/</link>
+                
+
+                
+                    <pubDate>Sat, 22 Jun 2024 12:33:01 PDT</pubDate>
+                
+
+                
+                    <title>Night of the Arts Posters</title>
+                
+            </item>
+        
+    </channel>
+</rss>
