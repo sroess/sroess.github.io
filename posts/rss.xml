@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/posts/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/posts/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-06-22 12:33:01 -0700 PDT</lastBuildDate>
+        
+
+        <link>http://localhost:1313/posts/</link>
+
+        
+
+        <title>Posts · Sophia Roessler Photography</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p><img src="/images/branson.PNG" alt="Branson&rsquo;s poster"></p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-06-22:/posts/my-first-post/</guid>
+
+                
+                    <link>http://localhost:1313/posts/my-first-post/</link>
+                
+
+                
+                    <pubDate>Sat, 22 Jun 2024 12:33:01 PDT</pubDate>
+                
+
+                
+                    <title>Night of the Arts Posters</title>
+                
+            </item>
+        
+    </channel>
+</rss>
